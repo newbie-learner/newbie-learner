@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sid
 - 👀 I’m interested in coding and learning new skills
 - 🌱 I’m currently learning rest api and graphql
-- 💞️ I’m looking to collaborate on some public repo which can help developers to learn python, django or flask.
+- 💞️ I’m looking to collaborate on some public repo which can help developers to learn golang, python, django or flask.
 - 📫 you can reach out to me newbielearner19@gmail.com
 
 <!---
